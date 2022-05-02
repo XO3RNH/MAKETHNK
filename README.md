@@ -5,9 +5,9 @@
 From time to time, I will add new ready-made templates for the program.
 
 ## Using
-```
+
 As soon as you compile and run the program, you will have to choose one of the provided ready-made templates, as soon as you select the template you need, click on the "Generate" button and everything is ready! The program has generated html, css and js files for you. Keep in mind that the program will generate these files in the same place where the program itself is located.
-```
+
 ## Installation
 ```
 git clone https://github.com/XO3RNH/MAKETHNK.git
